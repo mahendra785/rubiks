@@ -1,0 +1,21 @@
+table{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+button{
+    cursor: pointer;
+}
+.centre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 75px;
+}
+.solve{
+margin:30px 0 30px 60px; 
+transform: scale(1.2);
+}
+.palette{
+margin-left: 90px;
+}
