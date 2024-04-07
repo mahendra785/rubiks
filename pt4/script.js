@@ -53,4 +53,3 @@ function solve() {
 
 alert(str);
 }
-solve();
